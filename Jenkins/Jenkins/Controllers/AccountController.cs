@@ -17,7 +17,7 @@ namespace Jenkins.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
-		//hh gfh
+		//
         public AccountController()
         {
         }
